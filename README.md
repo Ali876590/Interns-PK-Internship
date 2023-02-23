@@ -1,4 +1,4 @@
-# Interns PK Internship
+# Interns PK Projects
 Tasks of Interns PK Web Development internship
 // Some of the code is copied as well - credits to respective owner.
 
