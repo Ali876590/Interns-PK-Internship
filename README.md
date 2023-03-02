@@ -1,6 +1,5 @@
 # Interns PK Projects
 Tasks of Interns PK Web Development internship
-// Some of the code is copied as well - credits to respective owner.
 
 1. [Learning Project: HTML and CSS Conversion](https://jsfiddle.net/Ali42315/ye3r2dkp/3/)
 2. [Learning Project: Responsive Design Conversion](https://jsfiddle.net/Ali42315/fp5odqsv/2/)
